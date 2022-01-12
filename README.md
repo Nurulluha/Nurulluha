@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nurulluha
 - 👀 I’m interested in Web design.
-- 🌱 I’m currently learning Bachelor of Software Engineering Degree Program.
+- 🌱 I’m currently learning Software Engineering Degree Program.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
